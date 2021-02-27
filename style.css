@@ -1,0 +1,9 @@
+.marco{
+    position: center;
+    text-align: center;
+    width: 500px;
+    margin-left: 400px;
+    background-color: rgba(0, 0, 0, 0.158);
+    border-color: black;
+    border: 2cm;
+}
